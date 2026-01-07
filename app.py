@@ -1,2 +1,5 @@
 print("Git /Github Demo")
-print("Hello from the local repo")
+# some comment
+print("This is an okay day - remote")
+print("This is a great day")
+print("This day works for me - local")
